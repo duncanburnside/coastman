@@ -201,22 +201,6 @@ const config: Config = {
               to: '/presentations',
             },
             {
-              label: 'Photos',
-              to: '/photos',
-            },
-            {
-              label: 'Videos',
-              to: '/videos',
-            },
-            {
-              label: 'Media Coverage',
-              to: '/media-coverage',
-            },
-            {
-              label: 'Audio',
-              to: '/audio',
-            },
-            {
               label: 'News',
               to: '/news',
             },
