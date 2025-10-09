@@ -7,7 +7,26 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'CoastMan Africa',
   tagline: 'Co-developing Decision Support System for Coastal Mangrove-based Socioecological Systems in Eastern and Western Africa',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
+
+  // Additional favicon configurations for better browser support
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        href: '/img/favicon.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        href: '/img/favicon.png',
+      },
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
