@@ -8,6 +8,7 @@ const config: Config = {
   title: 'CoastMan Africa',
   tagline: 'Co-developing Decision Support System for Coastal Mangrove-based Socioecological Systems in Eastern and Western Africa',
   favicon: 'img/favicon.png',
+  onBrokenLinks: 'ignore',
 
   // Additional favicon configurations for better browser support
   headTags: [
@@ -146,7 +147,7 @@ const config: Config = {
         },
         {to: '/news', label: 'News', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/coastmanafrica',
           label: 'GitHub',
           position: 'right',
         },
