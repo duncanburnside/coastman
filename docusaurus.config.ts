@@ -156,14 +156,6 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '',
-          items: [
-            {
-              html: '<img src="/img/logo-text-2025.svg" alt="CoastMan Africa" style="height: 40px; width: auto;" />',
-            },
-          ],
-        },
-        {
           title: 'About',
           items: [
             {
