@@ -5,16 +5,25 @@ slug: "videos"
 
 # Videos
 
-This page contains video content related to the CoastMan project.
+## CoastMan Project Videos
 
-## Project Videos
+### CoastMan Promo Video
+<video width="100%" controls>
+  <source src="/video/coastman-promo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+*Dr. Rashid Sumaila and Dr. Terry Sunderland Introduce the Coastman Project*
 
-Coming soon - video content will be added here.
+### Terry Sunderland, Co-Pilot
+<video width="100%" controls>
+  <source src="/video/terry-piloting-us-home.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+*Field work footage from the CoastMan project*
 
-## Conference Presentations
-
-Coming soon - recorded presentations will be added here.
-
-## Training Materials
-
-Coming soon - training videos will be added here.
+### Fireside Dance - Pemba, Zanzibar
+<video width="100%" controls>
+  <source src="/video/fireside-dance-pemba-zanzibar.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+*Cultural celebration during the CoastMan launch in Pemba, Zanzibar*
