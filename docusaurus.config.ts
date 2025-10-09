@@ -156,20 +156,43 @@ const config: Config = {
       style: 'dark',
       links: [
         {
+          title: '',
+          items: [
+            {
+              html: '<img src="/img/logo-text-2025.svg" alt="CoastMan Africa" style="height: 40px; width: auto;" />',
+            },
+          ],
+        },
+        {
           title: 'About',
           items: [
             {
               label: 'About',
               to: '/about',
             },
-          ],
-        },
-        {
-          title: 'Team',
-          items: [
             {
               label: 'Our Team',
               to: '/team',
+            },
+            {
+              label: 'DSS',
+              to: '/about/dss',
+            },
+            {
+              label: 'EDI',
+              to: '/about/edi',
+            },
+            {
+              label: 'Impact',
+              to: '/about/impact',
+            },
+            {
+              label: 'Mangroves',
+              to: '/about/mangroves',
+            },
+            {
+              label: 'Partners',
+              to: '/about/partners',
             },
           ],
         },
@@ -185,8 +208,24 @@ const config: Config = {
               to: '/presentations',
             },
             {
-              label: 'Media',
-              to: '/media',
+              label: 'Photos',
+              to: '/photos',
+            },
+            {
+              label: 'Videos',
+              to: '/videos',
+            },
+            {
+              label: 'Media Coverage',
+              to: '/media-coverage',
+            },
+            {
+              label: 'Audio',
+              to: '/audio',
+            },
+            {
+              label: 'News',
+              to: '/news',
             },
           ],
         },
@@ -197,40 +236,34 @@ const config: Config = {
               label: 'Work Packages',
               to: '/work-packages',
             },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'WP1',
+              to: '/work-packages/wp1',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'WP2',
+              to: '/work-packages/wp2',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'News',
-              to: '/news',
+              label: 'WP3',
+              to: '/work-packages/wp3',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'WP4',
+              to: '/work-packages/wp4',
+            },
+            {
+              label: 'WP5',
+              to: '/work-packages/wp5',
+            },
+            {
+              label: 'WP6',
+              to: '/work-packages/wp6',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} CoastMan Africa. 2024-2028 - Co-developing Decision Support System for Coastal Mangrove-based Socioecological Systems in Eastern and Western Africa (CoastMan)`,
+      copyright: `Copyright © ${new Date().getFullYear()} CoastMan. 2024-2028. Funded by SSHRC, The Research Council of Norway, and UK Research and Innovation (UKRI)`,
     },
     prism: {
       theme: prismThemes.github,
