@@ -1,0 +1,200 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #24878d;
+  --ifm-color-primary-dark: #1f6f74;
+  --ifm-color-primary-darker: #1d666a;
+  --ifm-color-primary-darkest: #18545a;
+  --ifm-color-primary-light: #2a9ba1;
+  --ifm-color-primary-lighter: #2ca3a9;
+  --ifm-color-primary-lightest: #3bb5bb;
+  --ifm-color-secondary: #c2d7b0;
+  --ifm-color-accent-1: #3e573f;
+  --ifm-color-accent-2: #f2e4a8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #3bb5bb;
+  --ifm-color-primary-dark: #2ca3a9;
+  --ifm-color-primary-darker: #2a9ba1;
+  --ifm-color-primary-darkest: #24878d;
+  --ifm-color-primary-light: #4bc7cd;
+  --ifm-color-primary-lighter: #5bcdd3;
+  --ifm-color-primary-lightest: #6bd3d9;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+header h2
+{
+  font-size:2rem!important;
+}
+
+small
+{
+  display: block;
+  margin-top: -8px;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-600);
+  text-align: center;
+  padding: 0.5rem;
+  line-height: 1.4;
+  background-color: var(--ifm-color-emphasis-100);
+  margin-bottom: 1rem;
+}
+
+/* Team Cards Styling */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.team-card {
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+.team-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.team-card a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.team-photo {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.team-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.team-card:hover .team-photo img {
+  transform: scale(1.05);
+}
+
+.team-info {
+  padding: 1.5rem;
+}
+
+.team-info h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.team-info .institution {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+  color: #7f8c8d;
+  font-weight: 500;
+}
+
+.team-info .role {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #3498db;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .team-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .team-photo {
+    height: 180px;
+  }
+  
+  .team-info {
+    padding: 1.25rem;
+  }
+}
+
+.admonitionHeading_PqaZ
+{
+  text-transform: none!important;
+  font:default!important;
+}
+
+.theme-admonition-note 
+{
+  background-color: var(--ifm-color-secondary)!important;
+  border-left: 5px solid var(--ifm-color-primary)!important;
+}
+
+.alert--secondary
+{
+
+}
+
+.img_SGJz
+{
+  border-radius: 10px;
+}
+
+a.dropdown__link.dropdown__link--active
+{
+  color: black!important;
+  background-color: transparent!important;
+}
+
+a.dropdown__link.dropdown__link--active:hover
+{
+  background-color: var(--ifm-dropdown-hover-background-color)!important;
+}
+
+.card__header
+{
+  border-bottom:1px solid var(--ifm-color-emphasis-200)!important;
+  padding-bottom:1em;
+  margin-bottom:0.5em; /* border-top:2px solid var(--ifm-color-emphasis-200); */
+}
+
+.card__body
+{
+  padding-top:0rem!important;
+}
+
+.wpTitle_j0vl
+{
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 2.25rem!important;
+}
+
+/* Reduce line height above superscript by 2-3px */
+sup {
+  line-height: 0.7;
+}
+
+.references
+{
+  font-size:0.875rem;
+  line-height:1.2rem;
+}
+

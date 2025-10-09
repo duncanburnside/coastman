@@ -1,0 +1,611 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+/* Team Hero Section */
+.teamHero {
+  padding: 30px 0;
+  background: white;
+}
+
+.imageContainer {
+  position: relative;
+  display: block;
+}
+
+.teamImage {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+
+/* Partners Section */
+.partners {
+  padding: 2rem 0;
+  background: #f5f5f5;
+}
+
+.partners p {
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* 9-column flex layout for logos */
+.logoGrid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.logoLink {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  min-width: 0;
+}
+
+.logoLink:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+}
+
+.logoImage {
+  max-height: 80px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  filter: grayscale(100%);
+  transition: filter 0.2s ease;
+}
+
+.logoLink:hover .logoImage {
+  filter: grayscale(0%);
+}
+
+.imageOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 50%, transparent 100%);
+  border-radius: 0 0 15px 15px;
+  padding: 2rem 1.5rem 1.5rem 1.5rem;
+}
+
+.overlayText {
+  color: white;
+  text-align: left;
+}
+
+.overlayText h2 {
+  color: white;
+  margin-bottom: 0.5rem;
+  font-size: 4rem;
+  font-weight: 900;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.overlayText h3 {
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  font-size: 2rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  line-height: 1.3;
+}
+
+.heroBanner {
+  padding: 50px 0;
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, var(--ifm-color-primary-dark) 100%);
+  display: flex;
+  align-items: center;
+}
+
+.heroBanner .container {
+  width: 100%;
+}
+
+.heroBanner .row {
+  align-items: center;
+}
+
+/* Hero Banner Typography */
+.heroBanner h2,
+.heroBanner h3 {
+  color: white;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.heroBanner h2 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+
+.heroBanner h3 {
+  font-size: 2rem;
+  line-height: 1.3;
+}
+
+/* Description Content */
+.descriptionContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+/* Hero image */
+.heroImage {
+  height: 400px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.heroImageContent {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.heroImage:hover .heroImageContent {
+  transform: scale(1.05);
+}
+
+/* Video Thumbnail */
+.videoThumbnail {
+  position: relative;
+  cursor: pointer;
+  height: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.videoThumbnail:hover .heroImageContent {
+  transform: scale(1.05);
+}
+
+.playButton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  height: 80px;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.videoThumbnail:hover .playButton {
+  background: rgba(0, 0, 0, 0.8);
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.playIcon {
+  color: white;
+  font-size: 24px;
+  margin-left: 4px;
+}
+
+/* Video Caption */
+.videoCaption {
+  margin: 1rem 0 0 0;
+  padding: 0;
+  color: white;
+  font-size: 0.9rem;
+  text-align: center;
+  line-height: 1.4;
+  font-weight: 500;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Lightbox Styles */
+.lightboxOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.lightboxContent {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+}
+
+.lightboxClose {
+  position: absolute;
+  top: -40px;
+  right: 0;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  padding: 5px 10px;
+  z-index: 1001;
+  transition: opacity 0.2s ease;
+}
+
+.lightboxClose:hover {
+  opacity: 0.7;
+}
+
+.lightboxVideo {
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 1rem;
+    text-align: center;
+    min-height: auto;
+    display: block;
+  }
+  
+  .heroBanner .row {
+    align-items: flex-start;
+  }
+  
+  .heroBanner .row .col--6:first-child {
+    margin-bottom: 2rem;
+  }
+  
+  .heroImage {
+    height: 250px;
+  }
+  
+  .videoCaption {
+    font-size: 0.8rem;
+    margin: 0.75rem 0 0 0;
+  }
+  
+  .buttons {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  
+  /* Mobile hero typography */
+  .overlayText h2 {
+    font-size: 1.8rem;
+  }
+  
+  .overlayText h3 {
+    font-size: 1.1rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 1.5rem;
+}
+
+
+/* Work Packages Section */
+.workPackages {
+  padding: 4rem 0;
+  background-color: #f8f9fa;
+}
+
+.wpGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.wpCardLink {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.wpCard {
+  padding: 0;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.wpTitle {
+  color: white;
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  position: relative;
+  z-index: 2;
+}
+
+.wpBottomContent {
+  padding: 0 2rem 1rem 2rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  transition: transform 0.4s ease;
+  transform: translateY(0);
+}
+
+.wpCard:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+
+.wpTextContainer {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.5rem;
+}
+
+.wpDescription {
+  color: white;
+  margin-bottom: 0;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.wpChevron {
+  opacity: 0;
+  font-weight: bold;
+  font-size: 2em;
+  line-height: 1.5;
+  align-self: flex-end;
+  margin-bottom: 0.1em;
+  color: white;
+  display: inline-block;
+  transition: opacity 0.3s ease;
+}
+
+.wpCard:hover .wpChevron {
+  opacity: 1;
+}
+
+/* Text styling for different card types */
+.cream .wpTitle,
+.cream .wpDescription {
+  color: white;
+}
+
+
+/* News Section */
+.news {
+  padding: 4rem 0;
+  background: white;
+}
+
+.newsItem {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
+
+.newsItem:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.newsImage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.newsItem h3 {
+  padding: 1.5rem 1.5rem 0 1.5rem;
+  color: var(--ifm-color-primary);
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.newsItem p {
+  padding: 0 1.5rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1rem;
+}
+
+.newsDate {
+  padding: 0 1.5rem;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  font-style: italic;
+  margin-bottom: 1.5rem !important;
+}
+
+.newsItem a {
+  display: inline-block;
+  margin: 0 1.5rem 1.5rem 1.5rem;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.newsItem a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 996px) {
+  .workPackages,
+  .news {
+    padding: 2rem 0;
+  }
+  
+  .wpGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  
+  .wpCard {
+    height: 250px;
+  }
+  
+  .wpTitle {
+    padding: 1.5rem 1.5rem 0 1.5rem;
+    font-size: 1.5rem;
+  }
+  
+  .wpBottomContent {
+    padding: 0 1.5rem 0.75rem 1.5rem;
+  }
+  
+  .newsItem {
+    margin-bottom: 2rem;
+  }
+  
+  
+  .teamImage {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  .imageOverlay {
+    padding: 1.5rem 1rem 1rem 1rem;
+  }
+  
+  .overlayText h2 {
+    font-size: 1.8rem;
+  }
+  
+  .overlayText p {
+    font-size: 1.1rem;
+  }
+  
+  
+  .partners {
+    padding: 1.5rem 0;
+  }
+  
+  .partners p {
+    font-size: 1rem;
+  }
+  
+  /* Responsive logo grid */
+  .logoGrid {
+    gap: 3px;
+  }
+  
+  .logoLink {
+    padding: 0.25rem;
+  }
+  
+  .logoImage {
+    max-height: 60px;
+  }
+}
+
+/* 3x3 grid for screens below 768px */
+@media screen and (max-width: 768px) {
+  .logoGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .logoLink {
+    flex: none;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80px;
+  }
+  
+  .logoImage {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  }
+  
+  /* Mobile lightbox adjustments */
+  .lightboxOverlay {
+    padding: 10px;
+  }
+  
+  .lightboxClose {
+    top: -30px;
+    font-size: 24px;
+  }
+  
+  .playButton {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .playIcon {
+    font-size: 18px;
+  }
+}
+
+/* Mobile work packages */
+@media screen and (max-width: 768px) {
+  .wpGrid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .wpCard {
+    height: 220px;
+  }
+  
+  .wpTitle {
+    padding: 1.25rem 1.25rem 0 1.25rem;
+    font-size: 1.4rem;
+  }
+  
+  .wpBottomContent {
+    padding: 0 1.25rem 0.5rem 1.25rem;
+  }
+  
+}

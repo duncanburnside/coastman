@@ -1,0 +1,147 @@
+/* Card Grid Layout */
+.cardGrid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -8px;
+  padding-bottom: 2rem;
+}
+
+.cardGridItem {
+  padding: 0 8px;
+  margin-bottom: 16px;
+  display: flex;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+/* Darker card background in light mode */
+[data-theme='light'] .card {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+}
+
+.cardBody {
+  flex: 1;
+}
+
+[data-theme='light'] .role {
+  margin: 0 0 0.1rem 0;
+  font-size: 1rem;
+  color: var(--ifm-color-accent-1);
+  font-weight: 500;
+}
+
+[data-theme='dark'] .role {
+  margin: 0 0 0.1rem 0;
+  font-size: 1rem;
+  color: var(--ifm-color-secondary);
+  font-weight: 500;
+}
+
+.institution {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+/* Role Badge Styles */
+.roleBadge {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.25rem 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 0.375rem;
+  text-transform: uppercase;
+  letter-spacing: -0.025em;
+  vertical-align: baseline;
+  transform: translateY(-3px);
+}
+
+/* PI Badge - Primary Blue */
+.roleBadge--pi {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+/* Co-PI Badge - Secondary Green */
+.roleBadge--copi {
+  background-color: var(--ifm-color-secondary);
+  color: white;
+}
+
+/* Co-Applicant Badge - Info Light Blue */
+.roleBadge--coapplicant {
+  background-color: var(--ifm-color-info);
+  color: white;
+}
+
+/* Collaborator Badge - Warning Orange */
+.roleBadge--collaborator {
+  background-color: var(--ifm-color-warning);
+  color: white;
+}
+
+/* Dark theme adjustments */
+[data-theme='dark'] .roleBadge--pi {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] .roleBadge--copi {
+  background-color: var(--ifm-color-secondary);
+}
+
+[data-theme='dark'] .roleBadge--coapplicant {
+  background-color: var(--ifm-color-info-dark);
+}
+
+[data-theme='dark'] .roleBadge--collaborator {
+  background-color: var(--ifm-color-warning-dark);
+}
+
+/* Responsive Layout */
+/* 3 columns at 996px and above */
+@media (min-width: 996px) {
+  .cardGridItem {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+
+/* 2 columns at 640px to 1280px */
+@media (min-width: 640px) and (max-width: 1280px) {
+  .cardGridItem {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+/* 2 columns at 640px to 996px (overrides the above for smaller screens) */
+@media (min-width: 640px) and (max-width: 995px) {
+  .cardGridItem {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+/* 1 column at 480px to 640px */
+@media (min-width: 480px) and (max-width: 639px) {
+  .cardGridItem {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+/* 1 column below 480px */
+@media (max-width: 479px) {
+  .cardGridItem {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
