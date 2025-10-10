@@ -46,15 +46,48 @@
     imageAlt: 'Alexandra Morel'
   },
   {
-    id: 'bayr-u',
-    title: 'Ulrike Bayr',
-    role: 'Research Scientist',
-    coastmanRole: 'Co-Applicant',
-    institution: 'Norwegian Institute of Bioeconomy Research (Nibio), Landscape monitoring, Norway',
-    link: '/team/bayr-u',
+    id: 'adade-r',
+    title: 'Richard Adade',
+    role: 'Assistant Research Fellow',
+    coastmanRole: 'Collaborator',
+    institution: 'Africa Centre of Excellence in Coastal Resilience (ACECoR), University of Cape Coast',
+    link: '/team/adade-r',
     linkText: 'View Profile',
-    image: '/img/profile/bayr-u.webp',
-    imageAlt: 'Ulrike Bayr'
+    image: '/img/profile/adade-r.webp',
+    imageAlt: 'Richard Adade'
+  },
+  {
+    id: 'adamtey-a',
+    title: 'Augustine Adamtey',
+    role: 'Community Conservation',
+    coastmanRole: 'Collaborator',
+    institution: 'Committee Asanta, Bobrama & Ankobra Communities',
+    link: '/team/adamtey-a',
+    linkText: 'View Profile',
+    image: '/img/profile/adamtey-a.webp',
+    imageAlt: 'Augustine Adamtey'
+  },
+  {
+    id: 'aheto-d',
+    title: 'Denis Aheto',
+    role: 'Director',
+    coastmanRole: 'Co-Applicant',
+    institution: 'Centre for Coastal Management, University of Cape Coast; Africa Centre of Excellence in Coastal Resilience (ACECoR)',
+    link: '/team/aheto-d',
+    linkText: 'View Profile',
+    image: '/img/profile/aheto-d.webp',
+    imageAlt: 'Denis Aheto'
+  },
+  {
+    id: 'adotey-j',
+    title: 'Joshua Adotey',
+    role: 'Team Member',
+    coastmanRole: 'Collaborator',
+    institution: 'Africa Centre of Excellence in Coastal Resilience (ACECoR), University of Cape Coast',
+    link: '/team/adotey-j',
+    linkText: 'View Profile',
+    image: '/img/profile/adotey-j.webp',
+    imageAlt: 'Joshua Adotey'
   },
   {
     id: 'alemu-d',
@@ -68,17 +101,6 @@
     imageAlt: 'Diress Alemu'
   },
   {
-    id: 'shirima-d',
-    title: 'Deo Shirima',
-    role: 'Senior Lecturer',
-    coastmanRole: 'Co-Applicant',
-    institution: 'Sokoine University of Agriculture, National Carbon Monitoring Centre and Ecosystems and Conservation, Tanzania',
-    link: '/team/shirima-d',
-    linkText: 'View Profile',
-    image: '/img/profile/shirima-d.webp',
-    imageAlt: 'Deo Shirima'
-  },
-  {
     id: 'alem-h',
     title: 'Hamidu Alem',
     role: 'Researcher',
@@ -90,15 +112,37 @@
     imageAlt: 'Hamidu Alem'
   },
   {
-    id: 'rizzi-j',
-    title: 'Jonathan Rizzi',
-    role: 'Researcher',
-    coastmanRole: 'Co-Applicant',
-    institution: 'NIBIO - Norwegian Institute of Bioeconomy Research, Geomatics, Norway',
-    link: '/team/rizzi-j',
+    id: 'bana-l',
+    title: 'Linda Bana',
+    role: 'Assistant Research Fellow',
+    coastmanRole: 'Collaborator',
+    institution: 'University of Cape Coast (UCC), Ghana',
+    link: '/team/bana-l',
     linkText: 'View Profile',
-    image: '/img/profile/rizzi-j.webp',
-    imageAlt: 'Jonathan Rizzi'
+    image: '/img/profile/bana-l.webp',
+    imageAlt: 'Linda Bana'
+  },
+  {
+    id: 'bayr-u',
+    title: 'Ulrike Bayr',
+    role: 'Research Scientist',
+    coastmanRole: 'Co-Applicant',
+    institution: 'Norwegian Institute of Bioeconomy Research (Nibio), Landscape monitoring, Norway',
+    link: '/team/bayr-u',
+    linkText: 'View Profile',
+    image: '/img/profile/bayr-u.webp',
+    imageAlt: 'Ulrike Bayr'
+  },
+  {
+    id: 'ceglia-c',
+    title: 'Carlo Ceglia',
+    role: 'Post-Doctoral Research Fellow',
+    coastmanRole: 'Collaborator',
+    institution: 'University of Dundee, United Kingdom',
+    link: '/team/ceglia-c',
+    linkText: 'View Profile',
+    image: '/img/profile/ceglia-c.webp',
+    imageAlt: 'Carlo Ceglia'
   },
   {
     id: 'debella-gilo-m',
@@ -112,15 +156,81 @@
     imageAlt: 'Misganu Debella Gilo'
   },
   {
-    id: 'aheto-d',
-    title: 'Denis Aheto',
-    role: 'Director',
-    coastmanRole: 'Co-Applicant',
-    institution: 'Centre for Coastal Management, University of Cape Coast; Africa Centre of Excellence in Coastal Resilience (ACECoR)',
-    link: '/team/aheto-d',
+    id: 'falayi-m',
+    title: 'Menelisi Falayi',
+    role: 'Postdoctoral Research Fellow',
+    coastmanRole: 'Collaborator',
+    institution: 'University of British Columbia, Faculty of Forestry, Canada',
+    link: '/team/falayi-m',
     linkText: 'View Profile',
-    image: '/img/profile/aheto-d.webp',
-    imageAlt: 'Denis Aheto'
+    image: '/img/profile/falayi-m.webp',
+    imageAlt: 'Menelisi Falayi'
+  },
+  {
+    id: 'issifu-i',
+    title: 'Ibrahim Issifu',
+    role: 'Research Associate in Interdisciplinary Ocean and Fisheries Economics',
+    coastmanRole: 'Research Associate',
+    institution: 'University of British Columbia, Canada',
+    link: '/team/issifu-i',
+    linkText: 'View Profile',
+    image: '/img/profile/issifu-i.webp',
+    imageAlt: 'Ibrahim Issifu'
+  },
+  {
+    id: 'jilala-z',
+    title: 'Zawadi Jilala',
+    role: 'Secretary',
+    coastmanRole: 'Co-Applicant',
+    institution: 'CBO (Community Based Organisation), Environmental Conservation, Tanzania',
+    link: '/team/jilala-z',
+    linkText: 'View Profile',
+    image: '/img/profile/jilala-z.webp',
+    imageAlt: 'Zawadi Jilala'
+  },
+  {
+    id: 'lolila-n',
+    title: 'Nandera Lolila',
+    role: 'Assistant Lecturer',
+    coastmanRole: 'Collaborator',
+    institution: 'Sokoine University of Agriculture, Tanzania',
+    link: '/team/lolila-n',
+    linkText: 'View Profile',
+    image: '/img/profile/lolila-n.jpg',
+    imageAlt: 'Nandera Lolila'
+  },
+  {
+    id: 'lukhabi-d',
+    title: 'Dorothy Lukhabi',
+    role: 'Assistant Research Fellow',
+    coastmanRole: 'Collaborator',
+    institution: 'University of Cape Coast (UCC), Ghana',
+    link: '/team/lukhabi-d',
+    linkText: 'View Profile',
+    image: '/img/profile/lukhabi-d.webp',
+    imageAlt: 'Dorothy Lukhabi'
+  },
+  {
+    id: 'nortey-d',
+    title: 'Daniel Nortey Doku Nii',
+    role: 'Team Member',
+    coastmanRole: 'Collaborator',
+    institution: 'Africa Centre of Excellence in Coastal Resilience (ACECoR), University of Cape Coast',
+    link: '/team/nortey-d',
+    linkText: 'View Profile',
+    image: '/img/profile/nortey-d.webp',
+    imageAlt: 'Daniel Nortey Doku Nii'
+  },
+  {
+    id: 'rizzi-j',
+    title: 'Jonathan Rizzi',
+    role: 'Researcher',
+    coastmanRole: 'Co-Applicant',
+    institution: 'NIBIO - Norwegian Institute of Bioeconomy Research, Geomatics, Norway',
+    link: '/team/rizzi-j',
+    linkText: 'View Profile',
+    image: '/img/profile/rizzi-j.webp',
+    imageAlt: 'Jonathan Rizzi'
   },
   {
     id: 'salim-s',
@@ -145,15 +255,15 @@
     imageAlt: 'Hamidu Seki'
   },
   {
-    id: 'jilala-z',
-    title: 'Zawadi Jilala',
-    role: 'Secretary',
+    id: 'shirima-d',
+    title: 'Deo Shirima',
+    role: 'Senior Lecturer',
     coastmanRole: 'Co-Applicant',
-    institution: 'CBO (Community Based Organisation), Environmental Conservation, Tanzania',
-    link: '/team/jilala-z',
+    institution: 'Sokoine University of Agriculture, National Carbon Monitoring Centre and Ecosystems and Conservation, Tanzania',
+    link: '/team/shirima-d',
     linkText: 'View Profile',
-    image: '/img/profile/jilala-z.webp',
-    imageAlt: 'Zawadi Jilala'
+    image: '/img/profile/shirima-d.webp',
+    imageAlt: 'Deo Shirima'
   },
   {
     id: 'sumaila-r',
@@ -167,50 +277,6 @@
     imageAlt: 'Rashid Sumaila'
   },
   {
-    id: 'adade-r',
-    title: 'Richard Adade',
-    role: 'Assistant Research Fellow',
-    coastmanRole: 'Collaborator',
-    institution: 'Africa Centre of Excellence in Coastal Resilience (ACECoR), University of Cape Coast',
-    link: '/team/adade-r',
-    linkText: 'View Profile',
-    image: '/img/profile/adade-r.webp',
-    imageAlt: 'Richard Adade'
-  },
-  {
-    id: 'adotey-j',
-    title: 'Joshua Adotey',
-    role: 'Team Member',
-    coastmanRole: 'Collaborator',
-    institution: 'Africa Centre of Excellence in Coastal Resilience (ACECoR), University of Cape Coast',
-    link: '/team/adotey-j',
-    linkText: 'View Profile',
-    image: '/img/profile/adotey-j.webp',
-    imageAlt: 'Joshua Adotey'
-  },
-  {
-    id: 'nortey-d',
-    title: 'Daniel Nortey Doku Nii',
-    role: 'Team Member',
-    coastmanRole: 'Collaborator',
-    institution: 'Africa Centre of Excellence in Coastal Resilience (ACECoR), University of Cape Coast',
-    link: '/team/nortey-d',
-    linkText: 'View Profile',
-    image: '/img/profile/nortey-d.webp',
-    imageAlt: 'Daniel Nortey Doku Nii'
-  },
-  {
-    id: 'adamtey-a',
-    title: 'Augustine Adamtey',
-    role: 'Community Conservation',
-    coastmanRole: 'Collaborator',
-    institution: 'Committee Asanta, Bobrama & Ankobra Communities',
-    link: '/team/adamtey-a',
-    linkText: 'View Profile',
-    image: '/img/profile/adamtey-a.webp',
-    imageAlt: 'Augustine Adamtey'
-  },
-  {
     id: 'yaw-a',
     title: 'Abraham Yaw',
     role: 'Community Liaison',
@@ -220,17 +286,5 @@
     linkText: 'View Profile',
     image: '/img/profile/yaw-a.jpg',
     imageAlt: 'Abraham Yaw'
-  },
-  {
-    id: 'falayi-m',
-    title: 'Menelisi Falayi',
-    role: 'Postdoctoral Research Fellow',
-    coastmanRole: 'Collaborator',
-    institution: 'University of British Columbia, Faculty of Forestry, Canada',
-    link: '/team/falayi-m',
-    linkText: 'View Profile',
-    image: '/img/profile/falayi-m.webp',
-    imageAlt: 'Menelisi Falayi'
   }
 ]} />
-
