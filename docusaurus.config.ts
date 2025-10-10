@@ -204,15 +204,24 @@ const config: Config = {
               label: 'News',
               to: '/news',
             },
+            {
+              label: 'Videos',
+              to: '/videos',
+            },
+            {
+              label: 'Photos',
+              to: '/photos',
+            },
+            {
+              label: 'Media Coverage',
+              to: '/media-coverage',
+            },
           ],
         },
         {
-          title: 'Project',
+          title: 'Work Packages',
           items: [
-            {
-              label: 'Work Packages',
-              to: '/work-packages',
-            },
+
             {
               label: 'WP1',
               to: '/work-packages/wp1',
