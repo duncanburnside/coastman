@@ -1,6 +1,5 @@
 ---
 title: "Photos"
-slug: "photos"
 ---
 
 import PhotoGallery from '@site/src/components/PhotoGallery';

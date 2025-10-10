@@ -17,15 +17,13 @@ function VideoLightbox({isOpen, onClose}: {isOpen: boolean; onClose: () => void}
         <button className={styles.lightboxClose} onClick={onClose}>
           ×
         </button>
-        <video 
+        <iframe 
           className={styles.lightboxVideo}
-          controls
-          autoPlay
-          muted
-        >
-          <source src="/video/coastman-promo.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+          src="https://player.vimeo.com/video/1126286800?autoplay=1&muted=1"
+          frameBorder="0" 
+          allow="autoplay; fullscreen; picture-in-picture" 
+          allowFullScreen
+        ></iframe>
       </div>
     </div>
   );
@@ -119,6 +117,11 @@ function HomepageHeader() {
                   to="/about">
                   Learn More
                 </Link>
+                <Link
+                  className="button button--outline button--lg"
+                  to="/videos">
+                  Media
+                </Link>
               </div>
             </div>
           </div>
@@ -129,7 +132,7 @@ function HomepageHeader() {
                 onClick={() => setIsVideoOpen(true)}
               >
                 <img 
-                  src="/img/video-overlay.webp" 
+                  src="/img/video-overlay.jpg" 
                   alt="Mangrove roots ecosystem" 
                   className={styles.heroImageContent}
                 />

@@ -1,6 +1,5 @@
 ---
 title: "Media Coverage"
-slug: "media-coverage"
 ---
 
 # Media Coverage
