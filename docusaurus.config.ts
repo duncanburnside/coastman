@@ -45,9 +45,6 @@ const config: Config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -156,6 +153,14 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {
+          title: 'CoastMan',
+          items: [
+            {
+              html: '<img src="/img/logo-text-2025.svg" alt="CoastMan Logo" style="height: 40px;" /><p class="coastman-footer-blurb">CoastMan is a transcontinental project developing a decision support system (DSS) to help vulnerable coastal communities in Eastern and Western Africa restore and conserve mangrove ecosystems, strengthen climate resilience, and support sustainable livelihoods through co-produced, data-driven management strategies.</p>',
+            },
+          ],
+        },
         {
           title: 'About',
           items: [
