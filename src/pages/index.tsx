@@ -43,8 +43,11 @@ function TeamHeroSection() {
               />
               <div className={styles.imageOverlay}>
                 <div className={styles.overlayText}>
-                  <Heading as="h2">COASTMAN</Heading>
-                  <h3>Co-developing Decision Support System for Coastal Mangrove-based Socioecological Systems in Eastern and Western Africa</h3>
+                  <img 
+                    src="/img/logo-text-temp.svg" 
+                    alt="COASTMAN" 
+                    className={styles.logoImage}
+                  />
                 </div>
               </div>
             </div>

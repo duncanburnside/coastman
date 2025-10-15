@@ -12,12 +12,14 @@
 .imageContainer {
   position: relative;
   display: block;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  overflow: hidden;
 }
 
 .teamImage {
   width: 100%;
   height: auto;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   border-radius: 15px;
 }
 
@@ -78,38 +80,37 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 50%, transparent 100%);
+  background: linear-gradient(to right, var(--ifm-color-primary, 0.8) 0%, var(--ifm-color-primary, 0.4) 50%, transparent 100%);
   border-radius: 0 0 15px 15px;
-  padding: 2rem 1.5rem 1.5rem 1.5rem;
+  padding: 20px;
 }
 
 .overlayText {
-  color: white;
-  text-align: left;
+  padding: 0;
 }
 
-.overlayText h2 {
-  color: white;
-  margin-bottom: 0.5rem;
-  font-size: 4rem;
-  font-weight: 900;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+
+
+@media screen and (min-width: 768px) {
+  .imageOverlay {
+    padding: 30px;
+  }
 }
 
-.overlayText h3 {
-  color: rgba(255, 255, 255, 1);
-  margin: 0;
-  font-size: 2rem;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-  line-height: 1.3;
+.overlayText .logoImage {
+  width: 50%;
+  max-height: 150px;
+  height: auto;
+  filter: none !important;
 }
+
 
 .heroBanner {
   padding: 50px 0;
   text-align: left;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, var(--ifm-color-primary-dark) 100%);
+  background: var(--ifm-color-primary);
   display: flex;
   align-items: center;
 }
@@ -608,4 +609,10 @@
     padding: 0 1.25rem 0.5rem 1.25rem;
   }
   
+}
+
+.imageContainer_yexj
+{
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+border:5px solid red;
 }

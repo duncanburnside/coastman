@@ -157,7 +157,7 @@ const config: Config = {
           title: 'CoastMan',
           items: [
             {
-              html: '<img src="/img/logo-text-2025.svg" alt="CoastMan Logo" style="height: 40px;" /><p class="coastman-footer-blurb">CoastMan is a transcontinental project developing a decision support system (DSS) to help vulnerable coastal communities in Eastern and Western Africa restore and conserve mangrove ecosystems, strengthen climate resilience, and support sustainable livelihoods through co-produced, data-driven management strategies.</p>',
+              html: '<img src="/img/logo-text-full-2025.svg" alt="CoastMan Logo" style="height: 40px;" /><p class="coastman-footer-blurb">CoastMan is a transcontinental project developing a decision support system (DSS) to help vulnerable coastal communities in Eastern and Western Africa restore and conserve mangrove ecosystems, strengthen climate resilience, and support sustainable livelihoods through co-produced, data-driven management strategies.</p>',
             },
           ],
         },
