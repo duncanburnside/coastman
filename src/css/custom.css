@@ -37,6 +37,13 @@ header h2
   font-size:2rem!important;
 }
 
+@media screen and (max-width: 767px) {
+.descriptionContent_lwtR > h2
+  {
+    font-size: 1.33rem!important;
+  }
+}
+
 small
 {
   display: block;
