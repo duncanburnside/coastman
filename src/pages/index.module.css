@@ -105,6 +105,12 @@
 }
 
 
+@media screen and (max-width: 767px) {
+  .overlayText .logoImage {
+    width: 70%;
+  }
+}
+
 .heroBanner {
   padding: 50px 0;
   text-align: left;

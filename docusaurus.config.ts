@@ -89,7 +89,7 @@ const config: Config = {
     navbar: {
       logo: {
         alt: 'Coastman Logo',
-        src: 'img/logo-text-2025.svg',
+        src: 'img/logo-text-full-2025.svg',
       },
       items: [
         {
