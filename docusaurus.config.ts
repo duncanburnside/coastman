@@ -143,11 +143,6 @@ const config: Config = {
           ],
         },
         {to: '/news', label: 'News', position: 'right'},
-        {
-          href: 'https://github.com/coastmanafrica',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
