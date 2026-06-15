@@ -1,7 +1,7 @@
 ---
 title: "Welcome to CoastMan"
+slug: welcome-to-coastman
 date: 2024-04-16
-author: d.burnside
 categories: 
   - "news"
 tags: 

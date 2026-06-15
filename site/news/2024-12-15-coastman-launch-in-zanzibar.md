@@ -1,7 +1,8 @@
 ---
 title: "CoastMan Launch in Zanzibar"
+slug: coastman-launch-in-zanzibar
 date: 2024-12-15
-categories: 
+categories:
   - "news"
   - "workshops-meetings"
 tags: 

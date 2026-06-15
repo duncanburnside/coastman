@@ -50,7 +50,7 @@ The outputs of this WP will be communicated through at least two peer-reviewed s
 
 ### References
 <div class="references">
-1. <a id="ref1"></a> Bunting, P., et al., The global mangrove watch—a new 2010 global baseline of mangrove extent. Remote Sensing, 2018. 10(10): p. 1669.
+1. <a id="ref1"></a> Bunting, P., et al., The global mangrove watch-a new 2010 global baseline of mangrove extent. Remote Sensing, 2018. 10(10): p. 1669.
 2. <a id="ref2"></a> Baamonde, S., et al., Fully automatic multi-temporal land cover classification using Sentinel-2 image data. Procedia Computer Science, 2019. 159: p. 650-657.
 3. <a id="ref3"></a> Vasilakos, C., D. Kavroudakis, and A. Georganta, Machine Learning Classification Ensemble of Multitemporal Sentinel-2 Images: The Case of a Mixed Mediterranean Ecosystem. Remote Sensing, 2020. 12(12).
 4. <a id="ref4"></a> [GIS-based multi-criteria decision analysis reference - to be added]

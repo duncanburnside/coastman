@@ -1,7 +1,8 @@
 ---
 title: "Is reusable beverage packaging better than single–use plastic?"
+slug: is-reusable-beverage-packaging-better-than-single-use-plastic
 date: 2025-09-09
-author: issifu
+authors: issifu
 categories: 
   - "publications"
 tags: 
@@ -14,6 +15,12 @@ tags:
 ---
 
 ![](/img/reusable-water-bottles.jpg)
+
+:::note[Citation]
+
+Issifu, I., & Sumaila, U. R. (2025). Is reusable beverage packaging better than single-use plastic?. Sustainable Futures, 10, 101275.
+
+:::
 
 It's a choice many of us face every day: grab the convenient single-use plastic bottle or take a moment to fill up a reusable container? We intuitively feel one is better, but how much better? A comprehensive new study in the journal *Sustainable Futures* provides a definitive answer, and the results are crystal clear.
 
@@ -48,6 +55,3 @@ The study highlights Germany's advanced Deposit-Return System (DRS) as a success
 ### The Takeaway
 
 The science is clear: reusable beverage containers are a profoundly more sustainable and economical choice than single-use plastics. The path to reducing plastic pollution and curbing carbon emissions in the beverage industry lies in investing in robust infrastructure for reuse. For consumers, the choice is simple. Opting for a reusable container is one of the most impactful daily decisions you can make for the health of our planet.
-
----
-*Source: Issifu, I., & Sumaila, U. R. (2025). Is reusable beverage packaging better than single-use plastic?. Sustainable Futures, 10, 101275.*

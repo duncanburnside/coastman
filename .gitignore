@@ -1,12 +1,8 @@
-# Dependencies
-/node_modules
-
-# Production
-/build
-
-# Generated files
-.docusaurus
-.cache-loader
+# Site dependencies and build output
+/site/node_modules
+/site/build
+/site/.docusaurus
+/site/.cache-loader
 
 # Misc
 .DS_Store
@@ -19,4 +15,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 *.mp4
-docs/coastman-docs/

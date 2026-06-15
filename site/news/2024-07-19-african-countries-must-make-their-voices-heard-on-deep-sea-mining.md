@@ -1,7 +1,8 @@
 ---
 title: "Op-Ed: African countries must make their voices heard on deep-sea mining"
+slug: op-ed-african-countries-must-make-their-voices-heard-on-deep-sea-mining
 date: 2024-07-19
-categories: 
+categories:
   - "opinion"
 tags: 
   - "deep-sea-mining"

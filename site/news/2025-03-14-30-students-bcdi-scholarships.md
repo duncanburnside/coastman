@@ -1,7 +1,8 @@
 ---
 title: "30 Tanzanian and Ghanaian Students Awarded BCDI 2030 Scholarships for Mangrove Stewardship"
+slug: 30-tanzanian-and-ghanaian-students-awarded-bcdi-2030-scholarships-for-mangrove-stewardship
 date: 2025-03-14
-categories: 
+categories:
   - "news"
 tags: 
   - "bcdi-2030"

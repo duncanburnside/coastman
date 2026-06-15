@@ -1,41 +1,41 @@
-# Website
+# CoastMan
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository is split into two top-level directories:
 
-## Installation
+- **`docs/`** - Markdown content (about, team, work packages, publications, etc.). This folder is intended to become its own repository so content can be edited independently.
+- **`site/`** - [Docusaurus](https://docusaurus.io/) site that builds and serves the content from `docs/`.
 
-```bash
-yarn
-```
+## Development
 
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
+Install dependencies and start the dev server from the `site/` directory:
 
 ```bash
-yarn build
+cd site
+pnpm install   # or npm install
+pnpm start     # or npm start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
+Build for production:
 
 ```bash
-USE_SSH=true yarn deploy
+cd site
+pnpm build
 ```
 
-Not using SSH:
+## Splitting docs into a separate repo
+
+When `docs/` moves to its own repository, keep it at the same path relative to the site:
+
+```
+coastman/
+├── docs/          # git submodule or sibling checkout
+└── site/
+```
+
+From the repo root, add the docs repo as a submodule:
 
 ```bash
-GIT_USER=<Your GitHub username> yarn deploy
+git submodule add <docs-repo-url> docs
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The site is already configured to read content from `../docs` (see `site/docusaurus.config.ts`).

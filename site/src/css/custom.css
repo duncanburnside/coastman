@@ -288,3 +288,35 @@ sup {
 {
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
+
+.authorTitle_nd0D
+{
+  background-color: transparent!important;
+  padding:0px!important;
+  margin-top:5px
+}
+
+.avatar
+{
+  display: flex;
+  background-color: #eee;
+  border-radius:8px;
+  padding: 8px;
+  height:72px;
+}
+.avatar__intro
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+
+.authorSocials_rSDt
+{display:none;}
+
+.authorTitle_nd0D
+{margin-bottom:0px;}
+
+article img
+{border-radius:8px;}
