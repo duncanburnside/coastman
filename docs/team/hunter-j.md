@@ -18,8 +18,6 @@ Dr Janine Hunter is a Researcher at the University of Dundee, UK, specialising i
 
 **Links**
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=EHZvYPEAAAAJ&view_op=list_works&sortby=pubdate)
-
-[ORCiD](https://orcid.org/0000-0002-8718-2243)
-
-[Publications](https://discovery.dundee.ac.uk/en/persons/janine-hunter/publications/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=EHZvYPEAAAAJ&view_op=list_works&sortby=pubdate)
+- [ORCiD](https://orcid.org/0000-0002-8718-2243)
+- [Publications](https://discovery.dundee.ac.uk/en/persons/janine-hunter/publications/)
