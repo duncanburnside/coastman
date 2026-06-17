@@ -33,4 +33,5 @@ Terry has been PI/Co-PI on many multi and interdisciplinary development projects
 
 ### Links
 - [Google Scholar](https://scholar.google.com/citations?user=1etd8J8AAAAJ&hl=en&oi=ao)
-- UBC
+- [UBC Forestry](https://forestry.ubc.ca/faculty-profile/terry-sunderland/)
+- [Sunderland Lab](https://sunderlandlab.forestry.ubc.ca/)

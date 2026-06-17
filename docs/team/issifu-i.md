@@ -20,6 +20,7 @@ Ibrahim's expertise spans several analytical tools, including Python, Stata, and
 
 ### Links
 - [Google Scholar](https://scholar.google.com/citations?user=7Lgr3X4AAAAJ&hl=en&oi=ao)
+- [IbrahimIssifu.com](https://ibrahimissifu.com/)
 
 ### Project Overview Video
 

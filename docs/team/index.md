@@ -167,6 +167,17 @@
     imageAlt: 'Menelisi Falayi'
   },
   {
+    id: 'hunter-j',
+    title: 'Janine Hunter',
+    role: 'Post-Doctoral Research Fellow',
+    coastmanRole: 'Collaborator',
+    institution: 'University of Dundee, United Kingdom',
+    link: '/team/hunter-j',
+    linkText: 'View Profile',
+    image: '/img/profile/hunter-j.webp',
+    imageAlt: 'Janine Hunter'
+  },
+  {
     id: 'issifu-i',
     title: 'Ibrahim Issifu',
     role: 'Research Associate in Interdisciplinary Ocean and Fisheries Economics',
