@@ -5,8 +5,6 @@ slug: "partners"
 
 # Partners
 
-## Our Collaborating Organizations
-
 CoastMan brings together a diverse network of partners from academia, government, and civil society to address the complex challenges facing mangrove ecosystems in coastal Africa.
 
 
