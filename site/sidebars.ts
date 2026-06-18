@@ -52,6 +52,7 @@ const sidebars: SidebarsConfig = {
         'team/ceglia-c',
         'team/debella-gilo-m',
         'team/falayi-m',
+        'team/hunter-j',
         'team/issifu-i',
         'team/jilala-z',
         'team/lolila-n',
