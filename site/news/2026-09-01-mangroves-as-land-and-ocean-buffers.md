@@ -1,53 +1,66 @@
 ---
 title: "Mangroves as land and ocean buffers: A comparative analysis of mangrove ecosystem services in Ghana and Tanzania"
-slug: "mangroves-land-ocean-buffers-analysis"
-description: "Mangroves provide essential ecosystem services, including carbon sequestration, fisheries support, and coastal protection, thereby contributing significantly to climate resilience and coastal livelihoods."
-date: 2026-09-01
+slug: mangroves-land-ocean-buffers-ghana-tanzania
+description: "A new study in Ocean and Coastal Management compares the ecological and economic contributions of mangroves in Ghana and Tanzania, highlighting critical trade-offs between blue carbon storage, coastal protection, and fisheries."
+date: 2026-07-15
 categories:
-  - "mangroves"
+  - "publications"
 tags:
-  - "ocean"
-  - "mangroves"
-  - "mangrove ecosystems"
-image: /img/study-highlights-policy-and-governance-challenges-in-african-mangrove-conservation.webp
+  - "blue carbon"
+  - "coastal protection"
+  - "mangrove conservation"
+  - "fisheries intensity"
+  - "Ghana"
+  - "Tanzania"
+image: /img/coastman-cover.jpg
 draft: false
 hide_table_of_contents: false
 keywords:
-  - "mangroves"
-  - "mangrove ecosystems"
+  - coastman
+  - news
+  - mangroves
 ---
 
-![](/img/study-highlights-policy-and-governance-challenges-in-african-mangrove-conservation.webp)
+![](/img/aerial-mangroves.webp)
 
 :::note[Citation]
 
-Issifu, I., Falayi, M., Sunderland, T., & Sumaila, U. R. (2026). Mangroves as land and ocean buffers: A comparative analysis of mangrove ecosystem services in Ghana and Tanzania. Ocean &amp; Coastal Management, 280, 108301. [https://doi.org/10.1016/j.ocecoaman.2026.108301](https://doi.org/10.1016/j.ocecoaman.2026.108301)
+Issifu, I., M. Falayi, T. Sunderland, and U. R. Sumaila. 2026. “Mangroves as land and ocean buffers: A comparative analysis of mangrove ecosystem services in Ghana and Tanzania.” _Ocean and Coastal Management_ 280: 108301. [https://doi.org/10.1016/j.ocecoaman.2026.108301](https://doi.org/10.1016/j.ocecoaman.2026.108301).
 
 :::
 
-## Abstract
-
-Mangroves provide essential ecosystem services, including carbon sequestration, fisheries support, and coastal protection, thereby contributing significantly to climate resilience and coastal livelihoods. Using the Global Mangrove Watch 2020 dataset and the ecosystem valuation technique of benefit transfer, we quantify the value of blue carbon storage and coastal protection in Ghana and Tanzania. 
+A new study published in *Ocean and Coastal Management* by CoastMan project members [Ibrahim Issifu](/team/issifu-i), [Menelisi Falayi](/team/falayi-m), [Rashid Sumaila](/team/sumaila-r) and CoastMan PI [Terry Sunderland](/team/sunderland-t) examines how mangrove ecosystems function as critical land-ocean buffers in West and East Africa. By evaluating mangroves in Ghana and Tanzania, the research provides a comparative analysis of blue carbon storage, coastal protection, and fisheries livelihoods, pointing to key regional trade-offs that can help guide future conservation investments.
 
 <!-- truncate -->
 
-The latter is endowed with approximately 110,694 ha of mangroves, which is over six times greater than Ghana's 17,887 ha. Under the Africa-specific primary valuation scenario 150–300 Mg C ha−1, Tanzania's mangroves are estimated to store approximately 92–153 MtCO2e of blue carbon, compared with 11–22 MtCO2e in Ghana. Applying a global carbon price range of US$5–10 per tCO2e, the value of Tanzania's carbon stock would range between US$460–1530 million while Ghana's range between US$57–226. However, these estimated values reflect gross potential and may reduce after accounting for transaction costs and long-term carbon permanence requirements. Sensitivity analyses using global maximum carbon coefficients generated substantially larger potential estimates, emphasizing the importance of regionally calibrated coefficients in blue carbon accounting. Tanzania also has greater restoration potential and annual CO2 capture, indicating higher climate mitigation capacity of the country's mangroves. Despite Tanzania's larger mangrove extent, Ghana's mangrove forests provide higher coastal protection, valued at $121 million annually and $469 million during a 100-year storm event owing to the concentration of assets and population along its coastline. Fishing pressure, however, remains more intense in Ghana, threatening long term sustainability. Integrating carbon storage, fisheries pressure, and coastal protection within a unified analytical framework reveals key service trade-offs and synergies with direct implications for conservation investment priorities. Tanzania functions as a blue carbon stronghold requiring sustained protection, while Ghana represents a high-priority restoration frontier where integrated conservation and livelihood diversification can maximize ecosystem service co-benefits.
+## The Valuation of Blue Carbon and Coastal Protection
 
+Mangroves are highly efficient carbon sinks, yet global valuation models often rely on soil organic carbon benchmarks derived from Indo-Pacific forests. This study highlights how applying these global maximum coefficients can overestimate African blue carbon stocks by three to five times. 
 
-## Second Heading
+Using Africa-specific, regionally calibrated values (150–300 tonnes of carbon per hectare), the researchers calculated more realistic carbon stock baselines:
+*   **Tanzania** is endowed with approximately 110,694 hectares of mangroves (primarily in the Rufiji Delta, Tanga, Bagamoyo, and Zanzibar), storing an estimated 92–153 million tonnes of carbon dioxide equivalent of blue carbon (gross value of US$460–1530 million). 
+*   **Ghana** has a smaller extent of 17,887 hectares (concentrated in estuarine systems like the Greater Amanzule Wetland and Keta Lagoon), storing 11–22 million tonnes of carbon dioxide equivalent (gross value of US$57–226 million).
 
-[Provide context on the problem, background, or rationale behind the study or event. Detail the methods, frameworks, or focus areas of the research/initiative.]
+Despite its smaller mangrove area, Ghana's forests provide a disproportionately higher monetary value for coastal protection. Ghana’s coastal mangroves shield high-value urban infrastructure and dense settlements, providing an estimated $121 million in annual flood protection, which rises to $469 million during a 100-year storm event. In contrast, Tanzania's larger mangrove forests are situated in more sparsely populated deltaic areas, yielding a coastal protection value of $64–179 million.
 
-*   **[Sub-point/Region 1]:** [Details regarding findings or context specific to this sub-point.]
-*   **[Sub-point/Region 2]:** [Details regarding findings or context specific to this sub-point.]
-*   **[Sub-point/Region 3]:** [Details regarding findings or context specific to this sub-point.]
+## Fishing Intensity and Governance Dynamics
 
-## [Theme / Topic of the Second Key Section]
+The study reveals a stark, 25-fold difference in median fishing intensity between the two nations:
+*   **Ghana** experiences heavy fishing pressure, with a median of 8,418 fisher-days per square kilometer per year. Approximately 40% of Ghanaian mangrove sites exceed the overexploitation threshold of 2,000 fisher-days per square kilometer per year, driven by dense coastal populations and limited alternative livelihoods.
+*   **Tanzania** maintains a much lower median intensity of 337 fisher-days per square kilometer per year, with only 10% of monitored sites exceeding the overexploitation threshold.
 
-[Discuss the implications, key takeaways, recommendations, or future directions resulting from this work.]
+These differences are closely tied to national governance frameworks. Tanzania benefits from a stronger national protection regime under its Forest Act, with approximately 82% of its mangroves situated within reserves and managed via participatory Beach Management Units (BMUs) and village land tenures. Ghana, conversely, faces a fragmented regulatory structure distributed among multiple agencies, with open-access regimes and insecure traditional land tenures contributing to unregulated exploitation and urbanization-driven losses.
+
+## Pathways for Conservation and Restoration
+
+Integrating these diverse ecosystem services into a single framework clarifies distinct national priorities:
+*   **Tanzania as a Blue Carbon Stronghold:** Because of its large, intact forests, low fishing pressure, and robust conservation framework, the primary management imperative in Tanzania is the sustained protection of existing stocks and prevention of agricultural encroachment.
+*   **Ghana as a High-Priority Restoration Frontier:** Ghana's high coastal asset exposure and high restorable area proportion (19% of its 2020 extent) mean that targeted restoration, combined with governance reforms and livelihood diversification, can maximize both climate mitigation and local adaptation co-benefits.
+
+Ultimately, the authors suggest that successful conservation in both nations requires transitioning from short-term donor funding to durable, long-term financing mechanisms (such as blue carbon markets or voluntary carbon credits) alongside stronger legal recognition of local community-led management.
 
 ---
 
-## [Resources / Paper Links]
+## View Paper
 
-* [https://www.sciencedirect.com/science/article/pii/S0964569126002103](https://www.sciencedirect.com/science/article/pii/S0964569126002103)
+* Mangroves as land and ocean buffers: A comparative analysis of mangrove ecosystem services in Ghana and Tanzania at [Elsevier](https://linkinghub.elsevier.com/retrieve/pii/S0964569126002103) https://doi.org/10.1016/j.ocecoaman.2026.108301
