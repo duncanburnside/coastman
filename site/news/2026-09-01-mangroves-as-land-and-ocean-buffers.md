@@ -9,7 +9,7 @@ tags:
   - "ocean"
   - "mangroves"
   - "mangrove ecosystems"
-image: /img/[cover-image-filename].jpg
+image: /img/study-highlights-policy-and-governance-challenges-in-african-mangrove-conservation.webp
 draft: false
 hide_table_of_contents: false
 keywords:
@@ -17,7 +17,7 @@ keywords:
   - "mangrove ecosystems"
 ---
 
-![[Alt text for main image]](/img/[main-image-filename].webp)
+![](/img/study-highlights-policy-and-governance-challenges-in-african-mangrove-conservation.webp)
 
 :::note[Citation]
 
