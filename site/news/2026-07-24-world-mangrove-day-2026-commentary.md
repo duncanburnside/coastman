@@ -44,7 +44,7 @@ Just as recent discussions have argued that fisheries management should be linke
 
 Our [recent comparative study](https://www.sciencedirect.com/science/article/pii/S0964569126002103) illustrates why this shift matters.
 
-The study found striking differences between the two countries. Tanzania possesses approximately 110,700 hectares of mangroves - more than six times Ghana's mangrove area. Under Africa-specific carbon assumptions, Tanzania stores an estimated 92–153 MtCO₂e, making it one of East Africa's most important blue carbon landscapes. Ghana stores considerably less, approximately 11–22 MtCO₂e.
+The study found striking differences between the two countries. Tanzania possesses approximately 110,700 hectares of mangroves - more than six times Ghana's mangrove area. Under Africa-specific carbon assumptions, Tanzania stores an estimated 92–153 MtCO₂e, making it one of East Africa's most important blue carbon landscapes. Ghana stores considerably less, approximately 11-22 MtCO₂e.
 
 If carbon storage were the only metric that mattered, the policy conclusion would appear obvious: prioritize Tanzania.
 
@@ -58,11 +58,11 @@ Mangroves serve as nurseries for fish, shrimp, and crabs that sustain millions o
 
 These findings demonstrate that carbon, fisheries, and coastal protection cannot be managed separately. They are interconnected ecosystem services produced by the same ecological system.
 
-## Managing Mangroves as Land–Ocean Buffers
+## Managing Mangroves as Land-Ocean Buffers
 
 The lesson extends beyond Ghana and Tanzania.
 
-Across Africa, governments are investing in blue economy strategies, climate adaptation plans, and restoration initiatives. These investments will have a far greater impact if they recognize mangroves as land–ocean buffers rather than isolated forest patches. Protecting mangroves simultaneously strengthens fisheries, reduces coastal flood risk, conserves biodiversity, stores carbon, and supports local livelihoods.
+Across Africa, governments are investing in blue economy strategies, climate adaptation plans, and restoration initiatives. These investments will have a far greater impact if they recognize mangroves as land-ocean buffers rather than isolated forest patches. Protecting mangroves simultaneously strengthens fisheries, reduces coastal flood risk, conserves biodiversity, stores carbon, and supports local livelihoods.
 
 ## Moving Beyond Carbon Markets in Coastal Finance
 

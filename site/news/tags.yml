@@ -1,19 +1,259 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+bcdi-2030:
+  label: BCDI 2030
+  permalink: /bcdi-2030
+  description: Canadian International Development Scholarships 2030
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+blue carbon:
+  label: Blue carbon
+  permalink: /blue-carbon
+  description: Blue carbon and mangrove carbon storage
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+bluecarbon:
+  label: Blue carbon
+  permalink: /bluecarbon
+  description: Blue carbon and mangrove carbon storage
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+carbon-dioxide-equivalents:
+  label: Carbon dioxide equivalents
+  permalink: /carbon-dioxide-equivalents
+  description: Carbon dioxide equivalent emissions
+
+coastal-guardians-fellowship:
+  label: Coastal Guardians Fellowship
+  permalink: /coastal-guardians-fellowship
+  description: Coastal Guardians Fellowship program
+
+coastal protection:
+  label: Coastal protection
+  permalink: /coastal-protection
+  description: Coastal protection and flood risk reduction
+
+coastalresilience:
+  label: Coastal resilience
+  permalink: /coastal-resilience
+  description: Coastal climate resilience
+
+Coastman:
+  label: CoastMan
+  permalink: /coastman-tag
+  description: CoastMan project
+
+coastman:
+  label: CoastMan
+  permalink: /coastman
+  description: CoastMan project
+
+coastman-launch:
+  label: CoastMan launch
+  permalink: /coastman-launch
+  description: CoastMan project launch events
+
+coastmanproject:
+  label: CoastMan project
+  permalink: /coastman-project
+  description: CoastMan project
+
+community forest management agreements:
+  label: Community forest management agreements
+  permalink: /community-forest-management-agreements
+  description: Community forest management agreements (CoFMAs)
+
+community resource management areas:
+  label: Community resource management areas
+  permalink: /community-resource-management-areas
+  description: Community resource management areas (CREMAs)
+
+cooperative-behavior:
+  label: Cooperative behavior
+  permalink: /cooperative-behavior
+  description: Cooperative behavior and game theory
+
+deep-sea-mining:
+  label: Deep-sea mining
+  permalink: /deep-sea-mining
+  description: Deep-sea mining policy and impacts
+
+department-of-forest-conservation-sciences:
+  label: Department of Forest and Conservation Sciences
+  permalink: /department-of-forest-conservation-sciences
+  description: UBC Department of Forest and Conservation Sciences
+
+ecosystems-and-climate-change:
+  label: Ecosystems and climate change
+  permalink: /ecosystems-and-climate-change
+  description: Ecosystems and climate change research
+
+environment:
+  label: Environment
+  permalink: /environment
+  description: Environmental research and sustainability
+
+environmental policy:
+  label: Environmental policy
+  permalink: /environmental-policy
+  description: Environmental policy and governance
+
+external-costs:
+  label: External costs
+  permalink: /external-costs
+  description: External costs of production and pollution
+
+fisheries intensity:
+  label: Fisheries intensity
+  permalink: /fisheries-intensity
+  description: Mangrove-associated fishing intensity
+
+funding:
+  label: Funding
+  permalink: /funding
+  description: Research funding and grants
+
+Ghana:
+  label: Ghana
+  permalink: /ghana
+  description: Research and fieldwork in Ghana
+
+ghg-emissions:
+  label: GHG emissions
+  permalink: /ghg-emissions
+  description: Greenhouse gas emissions
+
+ibrahim-issifu:
+  label: Ibrahim Issifu
+  permalink: /ibrahim-issifu
+  description: Posts related to Ibrahim Issifu
+
+institute-for-the-oceans-and-fisheries:
+  label: Institute for the Oceans and Fisheries
+  permalink: /institute-for-the-oceans-and-fisheries
+  description: UBC Institute for the Oceans and Fisheries
+
+joint forest management:
+  label: Joint forest management
+  permalink: /joint-forest-management
+  description: Joint forest management (JFM)
+
+life cycle assessment:
+  label: Life cycle assessment
+  permalink: /life-cycle-assessment
+  description: Life cycle assessment (LCA)
+
+mangrove conservation:
+  label: Mangrove conservation
+  permalink: /mangrove-conservation-spaced
+  description: Mangrove conservation and restoration
+
+mangrove-conservation:
+  label: Mangrove conservation
+  permalink: /mangrove-conservation
+  description: Mangrove conservation and restoration
+
+mangroveconservation:
+  label: Mangrove conservation
+  permalink: /mangroveconservation
+  description: Mangrove conservation and restoration
+
+mangrove governance:
+  label: Mangrove governance
+  permalink: /mangrove-governance
+  description: Mangrove governance and institutions
+
+mangrove-stewardship:
+  label: Mangrove stewardship
+  permalink: /mangrove-stewardship
+  description: Mangrove stewardship and training
+
+mangroves-research:
+  label: Mangroves research
+  permalink: /mangroves-research
+  description: Mangrove research
+
+mangroves-training:
+  label: Mangroves training
+  permalink: /mangroves-training
+  description: Mangrove training and capacity building
+
+nested governance:
+  label: Nested governance
+  permalink: /nested-governance
+  description: Nested institutions and overlapping mandates
+
+new-frontiers-in-research-fund:
+  label: New Frontiers in Research Fund
+  permalink: /new-frontiers-in-research-fund
+  description: New Frontiers in Research Fund (NFRF)
+
+partnerships:
+  label: Partnerships
+  permalink: /partnerships
+  description: Project partnerships and collaboration
+
+plastic-pollution:
+  label: Plastic pollution
+  permalink: /plastic-pollution
+  description: Plastic pollution research
+
+rashid-sumaila:
+  label: Rashid Sumaila
+  permalink: /rashid-sumaila
+  description: Posts related to Rashid Sumaila
+
+recycling:
+  label: Recycling
+  permalink: /recycling
+  description: Recycling and circular materials
+
+research:
+  label: Research
+  permalink: /research
+  description: CoastMan research outputs
+
+reusables:
+  label: Reusables
+  permalink: /reusables
+  description: Reusable packaging and containers
+
+single-use plastic:
+  label: Single-use plastic
+  permalink: /single-use-plastic
+  description: Single-use plastic packaging
+
+sustainability:
+  label: Sustainability
+  permalink: /sustainability
+  description: Sustainability and sustainable development
+
+Tanzania:
+  label: Tanzania
+  permalink: /tanzania
+  description: Research and fieldwork in Tanzania
+
+terry-sunderland:
+  label: Terry Sunderland
+  permalink: /terry-sunderland
+  description: Posts related to Terry Sunderland
+
+ubc-global-partnerships:
+  label: UBC Global Partnerships
+  permalink: /ubc-global-partnerships
+  description: UBC global partnerships
+
+voluntary-levy:
+  label: Voluntary levy
+  permalink: /voluntary-levy
+  description: Voluntary levy policy proposals
+
+World Mangrove Day:
+  label: World Mangrove Day
+  permalink: /world-mangrove-day
+  description: International Day for the Conservation of the Mangrove Ecosystem
+
+worldwetlandsday:
+  label: World Wetlands Day
+  permalink: /world-wetlands-day
+  description: World Wetlands Day
+
+zanzibar:
+  label: Zanzibar
+  permalink: /zanzibar
+  description: Research and events in Zanzibar
