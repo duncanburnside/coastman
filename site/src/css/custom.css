@@ -58,6 +58,26 @@ small
   margin-bottom: 1rem;
 }
 
+figure
+{
+  margin:0px!important;
+  background-color: var(--ifm-color-emphasis-100);
+  border-radius: 0px 0px 10px 10px;
+}
+
+figure img 
+{
+  border-radius: 10px 10px 0px 0px!important;
+}
+
+figcaption
+{
+  margin:0px 10px 0px 10px;
+  padding-bottom:5px;
+  font-size:small;
+  text-align:right;
+}
+
 /* Team Cards Styling */
 .team-grid {
   display: grid;
@@ -299,7 +319,7 @@ sup {
 .avatar
 {
   display: flex;
-  background-color: #eee;
+  background-color: var(--ifm-color-emphasis-100);
   border-radius:8px;
   padding: 8px;
   height:72px;
