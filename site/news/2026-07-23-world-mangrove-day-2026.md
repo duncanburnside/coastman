@@ -1,8 +1,8 @@
 ---
-title: "World Mangrove Day 2026 and the CoastMan Project"
+title: "July 26 is World Mangrove Day!"
 slug: world-mangrove-day-2026
-description: "On World Mangrove Day 2026, the CoastMan Project highlights how mangroves function as living land–ocean buffers—and why Africa must manage them as the bridge between land and sea, not as isolated forests."
-date: 2026-07-24
+description: "Overview of World Mangrove Day 2026"
+date: 2026-07-23
 authors: issifu
 categories:
   - "news"

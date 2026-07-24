@@ -2,7 +2,7 @@
 title: "World Mangrove Day 2026: Africa must stop treating mangroves as isolated forests, and start managing them as the bridge between land and sea"
 slug: world-mangrove-day-commentary
 description: "World Mangrove Day 2026 commentary by Dr. Ibrahim Issifu."
-date: 2026-07-23
+date: 2026-07-24
 authors: issifu
 categories:
   - "opinion"
@@ -23,7 +23,6 @@ keywords:
   - mangroves
   - commentary
 ---
-
 <figure>
 ![](/img/world-mangrove-day-2026-3.webp)
 <figcaption>Photo © Ibrahim Issifu.</figcaption>
@@ -88,6 +87,10 @@ Protecting them is not simply about saving trees. It is about safeguarding food 
 As governments prepare the next generation of climate and blue economy policies, one principle should guide every investment: manage mangroves not as isolated forests, but as the living bridge between land and sea.
 
 ***
+
+:::info[ADDITIONAL READING]
+See Ibrahim's commentary on [World Mangrove Day 2026](news/world-mangrove-day-commentary).
+:::
 
 [Dr. Ibrahim Issifu](/team/issifu-i) is an interdisciplinary natural resources economist at the University of British Columbia, where he advances research and innovation in sustainable fisheries, mangrove conservation, marine plastic pollution, blue carbon, and climate-resilient coastal development.
 
