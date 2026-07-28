@@ -35,7 +35,7 @@ This year's observance comes at a critical time. Climate change is intensifying 
 
 ## The CoastMan Project: Co-developing Innovative Decision Support Systems for Resilient Mangrove Socio-Ecological Systems
 
-The CoastMan Project (*Co-developing Decision Support Systems for Coastal Mangrove-based Socio-Ecological Systems in Eastern and Western Africa*) is an international research initiative dedicated to advancing evidence-based conservation, restoration, and sustainable management of mangrove ecosystems. Running from 2024 to 2027, the project brings together researchers, policymakers, and coastal communities through a partnership led by the University of British Columbia, University of Cape Coast, Norwegian University of Life Sciences, Sokoine University of Agriculture, University of Dundee, and regional partners.
+The CoastMan Project _(Co-developing Decision Support Systems for Coastal Mangrove-based Socio-Ecological Systems in Eastern and Western Africa)_ is an international research initiative dedicated to advancing evidence-based conservation, restoration, and sustainable management of mangrove ecosystems. Running from 2024 to 2027, the project brings together researchers, policymakers, and coastal communities through a partnership led by the University of British Columbia, University of Cape Coast, Norwegian University of Life Sciences, Sokoine University of Agriculture, University of Dundee, Norwegian Institute of Bioeconomy Research (NIBIO), Mkwawa University College Of Education, and regional partners.
 
 ## What is Novel about the CoastMan Project?
 
@@ -63,9 +63,7 @@ CoastMan's interdisciplinary work packages (WPs) are advancing collaborative res
 
 Meanwhile, [WP2](/work-packages/wp2) is investigating the social dynamics and livelihood aspirations of youth in mangrove-dependent communities across Ghana and Tanzania. Researchers from the University of Dundee, working with colleagues from the University of Cape Coast, have employed participatory mapping and in-depth interviews to co-produce knowledge with local communities. Upon completion of the Tanzanian fieldwork, the team will develop innovative outputs, including an interactive story map, and work closely with communities to communicate findings to policymakers and stakeholders at local, national, and international levels.
 
-Finally, through [WP1](/work-packages/wp1) and [WP4](/work-packages/wp4), in March 2025 and 2026, NIBIO and NMBU conducted a fieldwork conducted in Ghana
-
-Complementing these efforts, CoastMan is developing advanced methods to improve mangrove mapping by integrating drone imagery, Copernicus Sentinel-1 and Sentinel-2 satellite data, super-resolution modelling, and GEDI biomass observations. The resulting high-resolution maps and biomass estimates provide improvements over currently available global datasets, supporting restoration planning and evidence-based decision-making.
+Complementing these efforts, through [WP1](/work-packages/wp1) and [WP4](/work-packages/wp4), in March 2025 and 2026 NIBIO and NMBU conducted a fieldwork in Ghana and are developing advanced methods to improve mangrove mapping by integrating drone imagery, Copernicus Sentinel-1 and Sentinel-2 satellite data, super-resolution modelling, and GEDI biomass observations. The resulting high-resolution maps and biomass estimates provide improvements over currently available global datasets, supporting restoration planning and evidence-based decision-making.
 
 ## New Research from the CoastMan Project Team
 
