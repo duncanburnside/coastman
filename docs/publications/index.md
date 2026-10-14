@@ -2,13 +2,27 @@
 
 ## Core Publications
 
+- **Alem, H.**, **Tsegaye, D.**, **Issifu, I.**, **Nortey, D. D. N.**, **Bana, L.**, **Aheto, D. W.**, & **Gizachew, B.** (2026). Institutional capacity and divergent resilience pathways in coastal Ghana’s mangrove social-ecological systems: Evidence from the Western Region and Lower Volta Delta. *Ocean & Coastal Management*, 282, 108370. https://doi.org/10.1016/j.ocecoaman.2026.108370
+- **Issifu, I.**, **Falayi, M.**, **Sunderland, T.**, & **Sumaila, U. R.** (2026). Mangroves as land and ocean buffers: A comparative analysis of mangrove ecosystem services in Ghana and Tanzania. *Ocean & Coastal Management*, 280, 108301. https://doi.org/10.1016/j.ocecoaman.2026.108301
+- **Falayi, M.**, **Lukhabi, D. K.**, **Bana, L.**, Ekumah, N. O., Egbenya, V. C., **Aheto, D. W.**, **Lolila, N. J.**, **Seki, H.**, **Shirima, D.**, **Issifu, I.**, Zhang, M., & **Sunderland, T.** (2026). Nested Institutions and Overlapping Mandates: A Policy Analysis of Mangrove Governance in Ghana, Tanzania Mainland, and Zanzibar. *Environmental Policy and Governance*, 36(4), 1019–1033. https://doi.org/10.1002/eet.70092
 - **Issifu, I.**, & **Sumaila, U. R.** (2025). Is reusable beverage packaging better than single–use plastic? *Sustainable Futures*, 10, 101275. https://doi.org/10.1016/j.sftr.2025.101275
 - **Gizachew, B**, **Shirima, D.D**, **Rizzi, J**, Kukunda, C.B, Zahabu, E (2024). Conservation and Avoided Deforestation: Evidence from Protected Areas of Tanzania. *Forests*, 15(9), 1593. [https://doi.org/10.3390/f15091593](https://doi.org/10.3390/f15091593)
 
 ## Related Publications
 
+### 2026
+
+- Kim, H., Teh, L., Dahmouni, I., Alam, L., **Issifu, I.**, & **Sumaila, U. R.** (2026). Ecological and economic impacts of ocean deoxygenation on Pacific halibut fisheries: A multidisciplinary assessment of projected losses. *Ecological Economics*, 249, 109127. https://doi.org/10.1016/j.ecolecon.2026.109127
+- Alam, L., Teh, L., Teh, L., Palomares, M. L., Skerritt, D. J., **Issifu, I.**, Lam, V. W. Y., Villasante, S., Lazzari, N., Kinds, A., Carvalho, A. R., Majluf, P., **Aheto, D.**, Mokhtar, M., & **Sumaila, U. R.** (2026). Dynamics of distant water fishing fleets in Southeast Asian countries. *npj Ocean Sustainability*. https://doi.org/10.1038/s44183-026-00242-w
+- Adeyanju, S., Ros-Tonen, M. A. F., Bulkan, J., Baatuuwie, B. N., & **Sunderland, T.** (2026). Evaluating socioeconomic and equity outcomes in livelihood interventions: Insights from Community Resource Management Areas (CREMAs) in northern Ghana. *Current Research in Environmental Sustainability*, 11, 100337. https://doi.org/10.1016/j.crsust.2026.100337
+- **Ceglia, C.**, **Morel, A. C.**, & **van Blerk, L.** (2026). A Rapid Systematic Map of Youth Engagement With Marine Environments in a Changing Climate. *WIREs Climate Change*, 17(4). https://doi.org/10.1002/wcc.70087
+
 ### 2025
 
+- **Issifu, I.**, Dahmouni, I., & **Sumaila, U. R.** (2025). Assessing the ecological and economic transformation pathways of plastic production system. *Journal of Environmental Management*, 374, 124104. https://doi.org/10.1016/j.jenvman.2025.124104
+- Cisneros-Montemayor, A. M., Breakey, H., Bossier, S., Croft, F., **Issifu, I.**, Keefer, J., Singh, G. G., Voyer, M., & Ota, Y. (2025). Social equity indicators for a Blue Economy: Guidelines for application. *Marine Policy*, 180, 106815. https://doi.org/10.1016/j.marpol.2025.106815
+- Oloko, A., Dahmouni, I., Le Billon, P., Teh, L., Cheung, W., Sánchez-Jiménez, A., **Issifu, I.**, & **Sumaila, U. R.** (2025). Gender dynamics, climate change threats and illegal, unreported, and unregulated fishing. *Discover Sustainability*, 6(1). https://doi.org/10.1007/s43621-025-01227-4
+- Asuk, S. A., Wayman, J. P., Sadler, J. P., Pugh, T. A. M., Matthews, T. J., Ebu, V. T., Phillips, O. L., Lewis, S., Sonké, B., Talbot, J., Comiskey, J., Zemagho, L., Ojo, L., Begne, S., Taedoumg, H., **Sunderland, T.**, Hubau, W., Droissart, V., Qie, L., … Kettridge, N. (2025). Human and Environmental Factors Shape Tree Species Assemblages in West African Tropical Forests. *Diversity and Distributions*, 31(8). https://doi.org/10.1111/ddi.70075
 - **Issifu, I**, Dahmouni, I, García–Lorenzo, I, **Sumaila, U.R** (2025). Rethinking cost–benefit analysis for sustainable marine spatial planning. *A Research Agenda for Sustainable Ocean - Governance*, 175-184. [https://doi.org/10.4337/9781035325757.00027](https://doi.org/10.4337/9781035325757.00027)
 - Carvalho, A.R, Villasante, S, Lazzari, N, **Issifu, I**, Kinds, A, Majluf, P, Palomares, M.L, Skerritt, D.J, Alam, L, Lam, V.W.Y, Noleto-Filho, E.M, Reis-Filho, J.A, Teh, L, Teh, L, **Sumaila, U. R.** (2025). Unequal competition: the fate of domestic fisheries facing distant water fishing in the Southwestern Atlantic Ocean. *npj Ocean Sustainability*, 4(1). [https://doi.org/10.1038/s44183-025-00135-4](https://doi.org/10.1038/s44183-025-00135-4)
 - Solberg, S, **Gizachew, B**, Duncanson, L.I, Basak, P (2025). Combining TanDEM-X Interferometry and GEDI Space LiDAR for Estimation of Forest Biomass Change in Tanzania. *Remote Sensing*, 17(15), 2623. [https://doi.org/10.3390/rs17152623](https://doi.org/10.3390/rs17152623)
